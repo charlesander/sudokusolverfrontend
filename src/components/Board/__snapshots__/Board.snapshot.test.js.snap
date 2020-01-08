@@ -1,0 +1,987 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Board component Matches the snapshot 1`] = `
+<div
+  className="board"
+>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+</div>
+`;
+
+exports[`Board component Matches the snapshot 2`] = `
+<div
+  className="board"
+>
+  <div
+    className="cell preset"
+    onClick={[Function]}
+  >
+    1
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell preset"
+    onClick={[Function]}
+  >
+    2
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell preset"
+    onClick={[Function]}
+  >
+    3
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell preset"
+    onClick={[Function]}
+  >
+    4
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell preset"
+    onClick={[Function]}
+  >
+    5
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell preset"
+    onClick={[Function]}
+  >
+    6
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell preset"
+    onClick={[Function]}
+  >
+    7
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell preset"
+    onClick={[Function]}
+  >
+    8
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell settable"
+    onClick={[Function]}
+  >
+    0
+  </div>
+  <div
+    className="cell preset"
+    onClick={[Function]}
+  >
+    9
+  </div>
+</div>
+`;
