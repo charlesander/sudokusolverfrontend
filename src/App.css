@@ -4,3 +4,40 @@
 h1 {
   color: crimson;
 }
+
+.board {
+  display: grid;
+  grid-template-columns: 5vw 5vw 5vw 5vw 5vw 5vw 5vw 5vw 5vw;
+  grid-template-rows:    5vw 5vw 5vw 5vw 5vw 5vw 5vw 5vw 5vw;
+  background-color: #fff;
+  color: #444;
+}
+
+.cell {
+  border-radius: 5px;
+  padding: 1vw;
+
+  font-size: 100%;
+  line-height: 100%;
+  border: 1px solid black;
+}
+.cellContent {
+  display: table;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+
+.cellContent h1{
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.settable{
+  background-color: aliceblue;
+}
+
+.preset{
+  background-color: darkcyan;
+}

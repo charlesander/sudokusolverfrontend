@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Cell component Matches the snapshot 1`] = `
+<div
+  className="cell settable"
+  onClick={[Function]}
+>
+  0
+</div>
+`;
