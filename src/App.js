@@ -37,7 +37,11 @@ class App extends React.Component {
             params: {
                 cellValues: this.state.cellValues
             }
-        }).then(res => this.setState({cellValues: res.data}))
+        }).then(res => {
+            if(res.data.Complete) {
+                this.setState({cellValues: res.data.Body})
+            }
+        })
     }
 
     render() {
